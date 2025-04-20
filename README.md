@@ -1,2 +1,2 @@
-# GenAI projects for Data Scientist
+# GenAI projects for beginners 
  
